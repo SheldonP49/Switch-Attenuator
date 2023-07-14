@@ -1,0 +1,8 @@
+Attenuator backups/
+Attenuator Gerbers/
+*Gerber/*
+fp-info-cache
+*backups/*
+*.xml
+*.dxn
+
